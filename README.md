@@ -1,4 +1,4 @@
 # Budget Tracker App
 ## Installation:
-- ### Download the Content
+- ### Download the content
 - ### Go into the main.exe file
